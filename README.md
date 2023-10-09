@@ -15,10 +15,10 @@ To get started with running and developing the project locally, follow these ste
    vite dev
    ```
 
-Contributing
+## Contributing
 If you would like to contribute to this repository or have suggestions, please fork it and open a pull request. Your contributions are welcome.
 
-License
+## License
 This project is open-source and available under the [MIT License](https://raw.githubusercontent.com/sinanbayindir/react-daisyui-saas-app/main/LICENSE).
 
 
