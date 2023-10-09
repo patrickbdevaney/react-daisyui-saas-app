@@ -15,6 +15,7 @@ To get started with running and developing the project locally, follow these ste
    vite dev
    ```
 
+
 ## Contributing
 If you would like to contribute to this repository or have suggestions, please fork it and open a pull request. Your contributions are welcome.
 
